@@ -123,13 +123,13 @@ Application of the Finite Element Method / Finite Difference Method to the solut
     [\[E-Book-ENG\]](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf)
 -   A. Quarteroni, F. Saleri, P. Gervasio.* Scientific Computing with
     Matlab and Octave*. Springer Verlag, 2006.
-    [\[E-Book-ENG\]](http://www.springer.com/mathematics/computational+science+%26+engineering/book/978-3-642-45366-3)
+    [\[E-Book-ENG\]](https://link.springer.com/book/10.1007/978-3-642-12430-3)
 -   B. Gustaffson* Fundamentals of Scientific Computing, *Springer,
     2011
-    [\[E-Book-ENG\]](http://www.springer.com/mathematics/computational+science+%26+engineering/book/978-3-642-19494-8)
+    [\[E-Book-ENG\]](https://link.springer.com/book/10.1007/978-3-642-19495-5)
 -   Tveito, A., Langtangen, H.P., Nielsen, B.F., Cai, X. *Elements of
     Scientific Computing, *Springer, 2010
-    [\[E-Book-ENG\]](http://www.springer.com/mathematics/computational+science+%26+engineering/book/978-3-642-11298-0)
+    [\[E-Book-ENG\]](https://link.springer.com/book/10.1007/978-3-642-11299-7)
 
 Note that, when connecting from SISSA, all of the text books above are
 available in full text as pdf files.
