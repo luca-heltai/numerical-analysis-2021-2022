@@ -31,7 +31,7 @@ All course material is available at
 
 https://github.com/luca-heltai/numerical-analysis-2021-2022 (this github repository)
 
-If you are following the course, please (FILL THIS FORM)[https://forms.gle/8DyESWnfCmXMei3h8].
+If you are following the course, please [FILL THIS FORM](https://forms.gle/8DyESWnfCmXMei3h8).
 
 # Syllabus 2021-2022
 Four Modules of 12h each (1.5 CFU for each module), for a total of 48h, 6 CFU
